@@ -29,7 +29,7 @@ I am Atonya Dennis, currently pursuing a bachelor's degree in computer technolog
 ![PHP](https://img.shields.io/badge/-php-E34A86?style=flat-square&logo=php)
 ![Docker](https://img.shields.io/badge/-docker-E34A86?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-E34A86?style=flat-square&logo=kubernetes)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![ReactJs](https://img.shields.io/badge/-ReactJs-black?style=flat-square&logo=reactjs)                                                  ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
