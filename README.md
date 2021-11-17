@@ -25,19 +25,17 @@ I am Atonya Dennis, currently pursuing a bachelor's degree in computer technolog
 ## ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/-php-E34A86?style=flat-square&logo=php)
 ![Docker](https://img.shields.io/badge/-docker-E34A86?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-E34A86?style=flat-square&logo=kubernetes)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
 
 # Profile+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dentonya&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
