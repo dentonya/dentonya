@@ -8,7 +8,7 @@
 </a>
 
 
-- :office: &nbsp;I'm currently working at **eProd Solution Ltd**
+
 -  :office: &nbsp;I'm currently working at **eProd Solution Ltd**
 - :writing_hand: &nbsp;I regulary write article for  **[section](https://www.section.io/engineering-education)**
 - :speech_balloon: &nbsp;I like to talk about **Web Development**,**Machine Learning** and **Networking**
