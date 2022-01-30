@@ -7,6 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dentonya&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Atonya Dennis" align="right" />
 </a>
 
+
 - :office: &nbsp;I'm currently working at **eProd Solution Ltd**
 - :writing_hand: &nbsp;I regulary write article for  **[section](https://www.section.io/engineering-education)**
 - :speech_balloon: &nbsp;I like to talk about **Web Development**,**Machine Learning** and **Networking**
