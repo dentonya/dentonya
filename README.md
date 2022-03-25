@@ -181,7 +181,8 @@
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Vue Application with Django REST-API and Axios](https://www.section.io/engineering-education/build-vue-application-with-django-rest-api-and-axios/)
+- [Building a QR Code Scanner User Authentication System in Computer Vision](https://www.section.io/engineering-education/building-qr-code-authentication-system/) 
+- [Building a Vue Application with Django REST-API and Axios](https://www.section.io/engineering-education/build-vue-application-with-django-rest-api-and-axios/)                                                                                                                   
 - [Custom Pagination Using Django REST Framework with Vue](https://www.section.io/engineering-education/custom-pagination-using-django-rest-framework/)
 - [Multiple Image Watermarking Using OpenCV With Python](https://www.section.io/engineering-education/image-watermarking-with-opencv-python/)
 - [Classless Routing using Open Shortest Path First Protocol](https://www.section.io/engineering-education/classless-routing-using-ospf-protocol/)
