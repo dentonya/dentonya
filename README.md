@@ -119,7 +119,12 @@
       </a>
       <br>PHP
     </td>
-    
+     <td align="center" width="96">
+      <a href="#dentonya-tech" >
+        <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java" width="48" height="48" alt="JAVA" />
+      </a>
+      <br>JAVA
+    </td>
     <td align="center" width="96">
       <a href="#dentonya-tech">
         <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="48" height="48" alt="HTML" />
@@ -166,9 +171,9 @@
     </td>   
     <td align="center" width="96">
       <a href="#dentonya-tech">
-        <img src="https://www.linksys.com/resources/img/resource-center/hero/ethernet.png" width="48" height="48" alt="Computer Networks" />
+        <img src="https://classnotes.ng/wp-content/uploads/2020/04/internet-communication-classnotesng.jpg" width="48" height="48" alt="Computer Networks" />
       </a>
-      <br>Computer Networks
+      <br>Networking
     </td>                                                                                                                        
   </tr>
     
@@ -196,6 +201,7 @@
 
 
 [![Atonya's github activity graph](https://activity-graph.herokuapp.com/graph?username=dentonya&theme=react-dark)](https://github.com/dentonya)
+
 
 
 
