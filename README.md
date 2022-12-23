@@ -1,6 +1,6 @@
 
 <h1 align="left" id="dentonya-title">:wave: Hello there! I'm Atonya Dennis</h1>
-<h3 align="left">I am a Computer Technologist Student at Jomo Kenyatta University of Agriculture and Technology </h3>
+<h3 align="left">I am a Computer Technologist from Jomo Kenyatta University of Agriculture and Technology </h3>
 
 
 <a href="#dentonya-title">
