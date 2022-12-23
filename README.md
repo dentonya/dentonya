@@ -14,7 +14,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Web Development**,**Machine Learning** and **Networking**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dennis-atonya-0992151a3/)**
-- :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/AtonyaDenis)**
+- :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/den_atonya)**
 
 <br>
 
