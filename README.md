@@ -9,6 +9,7 @@
 -  :office: &nbsp;I'm currently working at **[eProd Solution Ltd](https://www.eprod-solutions.com/)**
 - :writing_hand: &nbsp;I regulary write article for  **[section](https://www.section.io/engineering-education)**
 - :speech_balloon: &nbsp;I like to talk about **Web Development**,**Machine Learning** and **Networking**
+-  🚀 I'm currenty improving [my portfolio site](https://dentonya.github.io/dentonya_portofolio/).
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dennis-atonya-0992151a3/)**
 - :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/den_atonya)**
