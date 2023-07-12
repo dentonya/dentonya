@@ -26,7 +26,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://twitter.com/AtonyaDenis">
+  <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fden_atonya%3Ft%3DZS8ITQOlyCPTgW_r2DEY3w%26s%3D09">
     <img src="https://img.shields.io/twitter/follow/AtonyaDenis?AtonyaDenis?color=green&logo=twitter" alt="twitter" />
   </a>
   <a href="https://github.com/dentonya/dentonya">
@@ -41,8 +41,12 @@
   <a href="https://www.linkedin.com/in/dennis-atonya-0992151a3"/>
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
-    <a href="https://instagram.com/atonyadenis)"/>
+    <a href="https://www.instagram.com/atonyadenis/?igshid=ZDc4ODBmNjlmNQ=="/>
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+  </a>
+  <a>
+     <a href="https://wakatime.com/@0d593bbb-7ab5-46af-afc8-f627539e735a"/>
+    <img alt="Wakatime" src="https://wakatime.com/badge/user/0d593bbb-7ab5-46af-afc8-f627539e735a.svg?logo=Instagram&logoColor=white">
   </a>
                                                                                                      
 </p>
