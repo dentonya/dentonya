@@ -1,6 +1,6 @@
 
 <h1 align="left" id="dentonya-title">:wave: Hello there! I'm Atonya Dennis</h1>
-<h3 align="left">A Computer Technologist from Jomo Kenyatta University of Agriculture and Technology </h3>
+<h3 align="left">A Software Engineer specialized in Backend Development and a bit of Frontend  </h3>
 
 <a href="#dentonya-title">
   <img src="https://github-contributor-stats.vercel.app/api?username=dentonya&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Atonya Dennis" align="right" />
