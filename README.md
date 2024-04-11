@@ -6,8 +6,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=dentonya&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Atonya Dennis" align="right" />
 </a>
 
--  :office: &nbsp;I'm currently working at **[eProd Solution Ltd](https://www.eprod-solutions.com/)**
-- :writing_hand: &nbsp;I used to write article for  **[section](https://www.section.io/engineering-education)**
+- :writing_hand: &nbsp;I used to write technical articles for  **[section](https://www.section.io/engineering-education)**
 - :speech_balloon: &nbsp;I like to talk about **Software/Web Development**,**Machine Learning** and **Networking**
 -  🚀 I'm currenty improving [my portfolio site](https://dentonya.github.io/dentonya_portofolio/).
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
