@@ -67,7 +67,7 @@
 - [Packet Filtering using Access Control Lists (ACLS)](https://www.section.io/engineering-education/packet-filtering-using-acls/)
 - [Networking Management Using CDP and LLDP Protocols](https://www.section.io/engineering-education/network-management-with-cdp-lldp/)
 - [Understanding EtherChannel-Technology](https://www.section.io/engineering-education/etherchannel-technology/)
-- [Understanding Inter-VLAN Routing](https://www.section.io/engineering-education/inter-vlan-routing/)
+- [Understanding Inter-VLAN Routing](https://www.webscale.com/engineering-education/understanding-inter-vlan-routing/)
 <!-- BLOG-POST-LIST:END -->
 
 
