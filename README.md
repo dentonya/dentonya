@@ -59,15 +59,15 @@
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
-- [Building a QR Code Scanner User Authentication System in Computer Vision](https://www.section.io/engineering-education/building-qr-code-authentication-system/) 
-- [Building a Vue Application with Django REST-API and Axios](https://www.section.io/engineering-education/build-vue-application-with-django-rest-api-and-axios/)                                                                                                                   
-- [Custom Pagination Using Django REST Framework with Vue](https://www.section.io/engineering-education/custom-pagination-using-django-rest-framework/)
-- [Multiple Image Watermarking Using OpenCV With Python](https://www.section.io/engineering-education/image-watermarking-with-opencv-python/)
-- [Classless Routing using Open Shortest Path First Protocol](https://www.section.io/engineering-education/classless-routing-using-ospf-protocol/)
-- [Packet Filtering using Access Control Lists (ACLS)](https://www.section.io/engineering-education/packet-filtering-using-acls/)
-- [Networking Management Using CDP and LLDP Protocols](https://www.section.io/engineering-education/network-management-with-cdp-lldp/)
-- [Understanding EtherChannel-Technology](https://www.section.io/engineering-education/etherchannel-technology/)
-- [Understanding Inter-VLAN Routing](https://www.webscale.com/engineering-education/understanding-inter-vlan-routing/)
+- [Building a QR Code Scanner User Authentication System in Computer Vision](https://www.cloudzilla.ai/dev-education/author/atonya-dennis/) 
+- [Building a Vue Application with Django REST-API and Axios](https://www.cloudzilla.ai/dev-education/build-vue-application-with-django-rest-api-and-axios/)                                                                                                               
+- [Custom Pagination Using Django REST Framework with Vue](https://www.cloudzilla.ai/dev-education/custom-pagination-using-django-rest-framework/)
+- [Multiple Image Watermarking Using OpenCV With Python](https://www.cloudzilla.ai/dev-education/image-watermarking-with-opencv-python/)
+- [Classless Routing using Open Shortest Path First Protocol](https://www.cloudzilla.ai/dev-education/classless-routing-using-ospf-protocol/)
+- [Packet Filtering using Access Control Lists (ACLS)](https://www.cloudzilla.ai/dev-education/packet-filtering-using-acls/)
+- [Networking Management Using CDP and LLDP Protocols](https://www.cloudzilla.ai/dev-education/network-management-with-cdp-lldp/)
+- [Understanding EtherChannel-Technology](https://www.cloudzilla.ai/dev-education/etherchannel-technology/)
+- [Understanding Inter-VLAN Routing](https://www.cloudzilla.ai/dev-education/inter-vlan-routing/)
 <!-- BLOG-POST-LIST:END -->
 
 
