@@ -1,12 +1,12 @@
 
 <h1 align="left" id="dentonya-title">:wave: Hello there! I'm Atonya Dennis</h1>
-<h3 align="left">A Software Engineer specialized in Backend Development and a bit of Frontend  </h3>
+<h3 align="left">A Software Engineer | A Code A Day | Ever Learning 😊</h3>
 
 <a href="#dentonya-title">
   <img src="https://github-contributor-stats.vercel.app/api?username=dentonya&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Atonya Dennis" align="right" />
 </a>
 
-- :writing_hand: &nbsp;I used to write technical articles for  **[section](https://www.section.io/engineering-education)**
+- :writing_hand: &nbsp;I used to write technical articles for  **[section](https://www.cloudzilla.ai/dev-education/author/atonya-dennis/)**
 - :speech_balloon: &nbsp;I like to talk about **Software/Web Development**,**Machine Learning** and **Networking**
 -  🚀 I'm currenty improving [my portfolio site](https://dentonya.github.io/dentonya_portofolio/).
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
