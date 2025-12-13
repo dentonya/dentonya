@@ -16,7 +16,7 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=dentonya&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dentonya&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dentonya&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
