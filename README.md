@@ -7,8 +7,8 @@
 </a>
 
 - :writing_hand: &nbsp;I used to write technical articles for  **[section](https://www.cloudzilla.ai/dev-education/author/atonya-dennis/)**
-- :speech_balloon: &nbsp;I like to talk about **Software Enginering**,**Machine Learning**,**Artificial Intelligence** and **Data Analysis**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
+- :speech_balloon: &nbsp;I like to talk about **Software Engineering**,**Machine Learning**,**Artificial Intelligence** and **Data Analysis**
+- 🚀 I'm also improving [my portfolio site](https://dentonya.github.io/dentonya_portofolio/).
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dennis-atonya-0992151a3/)**
 - :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/den_atonya)**
 
